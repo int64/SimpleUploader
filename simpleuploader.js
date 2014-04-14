@@ -16,7 +16,6 @@ new Uploader({
 	multiple: true,		// multiple file choose (not required, by default 'false')
 	load: function(response){},	// function to call after load (not required)
 	progress: function(response){},	// function to call on load progress (not required)
-	
 });
 
 */
